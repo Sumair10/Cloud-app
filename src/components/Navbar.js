@@ -32,7 +32,6 @@ function Navbar() {
         <li className="border-b-2 border-zinc-300 w-full">Support</li>
         <li className="border-b-2 border-zinc-300 w-full">Platform</li>
         <li className="border-b-2 border-zinc-300 w-full">Pricing</li>
-        <li className="border-b-2 border-zinc-300 w-full">Pricing</li>
         <div className="flex flex-col my-4">
           <button className="border-indigo-600 bg-transparent text-indigo-600 px-8 py-3 mb-4">
             SignIn
