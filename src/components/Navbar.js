@@ -13,6 +13,7 @@ function Navbar() {
             <li>Support</li>
             <li>Platform</li>
             <li>Pricing</li>
+            <li>Pricing</li>
           </ul>
         </div>
         <div className="hidden md:flex pr-4">
