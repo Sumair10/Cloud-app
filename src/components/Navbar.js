@@ -28,9 +28,9 @@ function Navbar() {
       </div>
 
       <ul className="absolute bg-zinc-200 w-full px-8">
-        {/* <li className="border-b-2 border-zinc-300 w-full">Home</li> */}
+        <li className="border-b-2 border-zinc-300 w-full">Home</li>
         <li className="border-b-2 border-zinc-300 w-full">About</li>
-        {/* <li className="border-b-2 border-zinc-300 w-full">Support</li> */}
+        <li className="border-b-2 border-zinc-300 w-full">Support</li>
         <li className="border-b-2 border-zinc-300 w-full">Platform</li>
         <li className="border-b-2 border-zinc-300 w-full">Pricing</li>
         <div className="flex flex-col my-4">
